@@ -19,10 +19,10 @@
 .theme-dark {
   --text-normal:                #ffffff;
   --text-muted:                 #ffffff;
-  --header-primary:             #ff4f75;
-  --channels-default:           #ff90a2;
-  --header-secondary:           #ff90a2;
-  --interactive-normal:         #ff90a2;
+  --header-primary:             #ffffff;
+  --channels-default:           #ffffff;
+  --header-secondary:           #ffffff;
+  --interactive-normal:         #ffffff;
   --interactive-hover:          #ffffff;
   --interactive-active:         #ffffff;
   --background-modifier-accent: #fff2;
